@@ -20,7 +20,7 @@ The codebase follows a mini-game engine design, with separate classes for differ
 
 <br>
 
-<video src="assets/8a883291edbab9ea.mp4" controls title="Flight Movement"></video>
+<video src="assets/flight.mp4" controls title="Flight Movement"></video>
 
 <p align="center">
  <i>Flight Movement
@@ -86,6 +86,8 @@ The keyboard controls are as follows:
 - The flight mechanism is not perfect, will be improved
 
 <br>
+
+You can find more detail about the project [here](https://ramazantokay.blogspot.com/2023/05/computer-graphics-ii-hw-2-dynamic-cube.html)
 
 ## Disclaimer
 Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution. Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements. Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
