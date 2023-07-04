@@ -19,9 +19,9 @@ The codebase follows a mini-game engine design, with separate classes for differ
 - `SkyBox.h`: This class handles the skybox calculations and rendering.
 
 <br>
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OKbDCEzYWMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+
+[![Flight Movement](https://img.youtube.com/vi/OKbDCEzYWMI/0.jpg)](https://www.youtube.com/watch?v=OKbDCEzYWMI)
+
 <p align="center">
  <i>Flight Movement
  </i>
