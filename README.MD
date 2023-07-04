@@ -75,7 +75,7 @@ The keyboard controls are as follows:
   
 <br>
 
-<video src="assets/9c33d46f49191f57.mp4" controls title="Final gameplay video"></video>
+<video src='/assets/9c33d46f49191f57.mp4' controls title="Final gameplay video"></video>
 <p align="center">
  <i>Final gameplay video
  </i>
