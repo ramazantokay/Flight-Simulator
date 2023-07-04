@@ -20,6 +20,7 @@ The codebase follows a mini-game engine design, with separate classes for differ
 
 <br>
 
+<video src="assets/8a883291edbab9ea.mp4" controls title="Flight Movement"></video>
 
 <p align="center">
  <i>Flight Movement
@@ -72,7 +73,9 @@ The keyboard controls are as follows:
   * <kbd>R</kbd> Change camera view to Back
   * <kbd>T</kbd> Change camera view to Front
   
+<br>
 
+<video src="assets/9c33d46f49191f57.mp4" controls title="Final gameplay video"></video>
 <p align="center">
  <i>Final gameplay video
  </i>
