@@ -20,7 +20,9 @@ The codebase follows a mini-game engine design, with separate classes for differ
 
 <br>
 
+<div>
 <video src="assets/flight.mp4" controls title="Flight Movement"></video>
+</div>
 
 <p align="center">
  <i>Flight Movement
