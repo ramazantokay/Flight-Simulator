@@ -1,6 +1,8 @@
 # Flight Simulator
 
 This is a Flight Simulator project implemented in OpenGL as part of a CENG469 Computer Graphics course assignment. The goal of the assignment was to implement environment mapping and reflection capabilities using cubemaps. The project was implemented in C++ and OpenGL. 
+You can find more detail about the project [here](https://ramazantokay.blogspot.com/2023/05/computer-graphics-ii-hw-2-dynamic-cube.html)
+
 
 ![Flight Simulator](assets/flight_sim.png)
 <p align="center">
@@ -20,7 +22,8 @@ The codebase follows a mini-game engine design, with separate classes for differ
 
 <br>
 
-<video src="assets/flight.mp4" controls title="Flight Movement"></video>
+
+![Flight Simulator](assets/flight_mech.gif)
 
 <p align="center">
  <i>Flight Movement
@@ -73,21 +76,12 @@ The keyboard controls are as follows:
   * <kbd>R</kbd> Change camera view to Back
   * <kbd>T</kbd> Change camera view to Front
   
-<br>
-
-<video src='/assets/9c33d46f49191f57.mp4' controls title="Final gameplay video"></video>
-<p align="center">
- <i>Final gameplay video
- </i>
-</p>
 
 ## TODO List
 - The dynamic reflection of the skybox has some issue, will be fixed
 - The flight mechanism is not perfect, will be improved
 
 <br>
-
-You can find more detail about the project [here](https://ramazantokay.blogspot.com/2023/05/computer-graphics-ii-hw-2-dynamic-cube.html)
 
 ## Disclaimer
 Please note that this implementation may contain limitations, potential bugs, and dependencies on external libraries and tools. While efforts have been made to ensure correctness, there is no guarantee of flawless execution. Exercise caution, conduct thorough testing, and adapt the code to your requirements. Report issues on GitHub and contribute to improvements. Use responsibly, validate results, and the authors disclaim liability for any damages or issues arising from the use of this code.
