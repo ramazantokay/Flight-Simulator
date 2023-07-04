@@ -17,10 +17,11 @@ The codebase follows a mini-game engine design, with separate classes for differ
 - `Renderer.h`: This class binds the buffers as shader attributes, renders objects using index buffers, and loads textures.
 - `UAV.h`: This class handles the flight mechanisms and calculations for the airplane.
 - `SkyBox.h`: This class handles the skybox calculations and rendering.
-- 
+
 <br>
 
-<video src="assets/8a883291edbab9ea.mp4" controls title="Title"></video>
+![](assets/8a883291edbab9ea.mp4)
+
 <p align="center">
  <i>Flight Movement
  </i>
@@ -59,6 +60,19 @@ make all
 ```
 ./main 
 ```
+
+2. Use the controls to manipulate the rendered surfaces. 
+
+The keyboard controls are as follows:
+  * <kbd>W</kbd> Speed up
+  * <kbd>S</kbd> Slow down
+  * <kbd>A</kbd> Rool left
+  * <kbd>D</kbd> Roll right
+  * <kbd>Q</kbd> Change camera view to Left
+  * <kbd>E</kbd> Change camera view to Right
+  * <kbd>R</kbd> Change camera view to Back
+  * <kbd>T</kbd> Change camera view to Front
+  
 
 <video src="assets/9c33d46f49191f57.mp4" controls title="Title"></video>
 <p align="center">
